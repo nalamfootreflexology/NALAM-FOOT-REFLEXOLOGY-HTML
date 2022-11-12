@@ -1139,7 +1139,8 @@
     height: 308px;
   }
   .home-max-width09 {
-    width: 100%;
+    width: 446px;
+    padding-left: var(--dl-space-space-twounits);
   }
   .home-container17 {
     width: 390px;
@@ -1163,7 +1164,7 @@
     margin-right: 0px;
   }
   .home-max-width10 {
-    width: 479px;
+    width: 440px;
   }
   .home-container18 {
     width: 390px;
