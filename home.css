@@ -168,7 +168,7 @@
   background-color: rgba(255, 199, 139, 0.14);
 }
 .home-max-width03 {
-  width: auto;
+  width: 1123px;
   align-items: stretch;
 }
 .home-content02 {
@@ -209,8 +209,8 @@
   justify-content: center;
 }
 .home-image05 {
-  width: 607px;
-  height: 400px;
+  width: 552px;
+  height: 360px;
   object-fit: cover;
 }
 .home-image06 {
