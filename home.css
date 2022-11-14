@@ -822,12 +822,7 @@
 }
 @media(max-width: 479px) {
   .home-text {
-    color: rgb(14, 67, 58);
-    font-size: 20px;
     box-shadow: rgb(212, 212, 212) 5px 5px 10px 0px;
-    font-style: normal;
-    font-weight: 700;
-    text-transform: uppercase;
   }
   .home-content {
     width: 465px;
